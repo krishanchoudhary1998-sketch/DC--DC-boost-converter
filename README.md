@@ -4,7 +4,6 @@ A high-performance step-up DC-DC boost converter based on the **XL6009** switchi
 
 [Circuit Design]
 
-<img width="695" height="350" alt="top_image" src="https://github.com/user-attachments/assets/29a14a51-7f89-4c36-921d-f3fc63dadc3c" />
 <img width="772" height="544" alt="circuit_design" src="https://github.com/user-attachments/assets/6c6bf03b-dd61-4deb-8423-1e820a760066" />
 
 
