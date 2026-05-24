@@ -2,15 +2,15 @@
 
 A high-performance step-up DC-DC boost converter based on the **XL6009** switching regulator IC. Designed in KiCad.
 
-![Circuit Design](Docs/circuit_design.png)<img width="695" height="350" alt="top_image" src="https://github.com/user-attachments/assets/29a14a51-7f89-4c36-921d-f3fc63dadc3c" />
+![Circuit Design]<img width="695" height="350" alt="top_image" src="https://github.com/user-attachments/assets/29a14a51-7f89-4c36-921d-f3fc63dadc3c" />
 <img width="772" height="544" alt="circuit_design" src="https://github.com/user-attachments/assets/6c6bf03b-dd61-4deb-8423-1e820a760066" />
 
-![PCB Top](Docs/top_image.png)<img width="695" height="350" alt="top_image" src="https://github.com/user-attachments/assets/1eac766d-d43c-4c35-acfb-25ffd49c7a49" />
+![PCB Top]<img width="695" height="350" alt="top_image" src="https://github.com/user-attachments/assets/1eac766d-d43c-4c35-acfb-25ffd49c7a49" />
 
 
-![PCB Bottom](Docs/bottom_image.png)<img width="678" height="315" alt="Bottom_image" src="https://github.com/user-attachments/assets/dee2c0c3-4867-413c-ad44-cbe16c37e517" />
+![PCB Bottom]<img width="678" height="315" alt="Bottom_image" src="https://github.com/user-attachments/assets/dee2c0c3-4867-413c-ad44-cbe16c37e517" />
 
-![PCB](Docs/pcb.png)![Uploading top_image.png…]()
+![PCB]
 <img width="964" height="465" alt="pcb" src="https://github.com/user-attachments/assets/217639e1-3f48-4ad0-a2c6-b1d10061a6bf" />
 
 
